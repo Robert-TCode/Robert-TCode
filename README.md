@@ -26,6 +26,8 @@ Always eager for new challenges where I can contribute with my skills and knowle
 
 #### 🤝 Feel free to drop me a message if you want to see how my expertise can help your business! 
 
+👀 LinkedIn: https://www.linkedin.com/in/robert-tanase-tcode/
+
 📞 Phone: +40 764 731 357
 
 📧 Email: roberttcode@gmail.com
