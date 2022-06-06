@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**Robert-TCode/Robert-TCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Robert, a **Senior iOS Engineer** / Freelancer / Consultant / with **more than 5 years of experience** in Swift. Always eager for new challenges where I can contribute with my skills and knowledge while improving my professional abilities.
 
-Here are some ideas to get you started:
+🚀 Agile environments are natural to me and I love having effective systems set up in place and a **good architecture** to build safe and fast on top of it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About my skills
+
+📱** iOS**
+- Swift, Combine, Objective-C
+- SwiftUI, UIKit, AutoLayout, HIG
+- CoreData, SQLite, Realm
+- SPM, Cocoapods, Carthage, modular architecture using frameworks
+- REST, GraphQL, WebSocket
+
+🏗 **Software Architecture**
+- MVVM-C, MVC, MVP
+- TDD, BDD, CI + CD, Git
+- Backend-driven & frontend-driven mobile applications
+- Clean Code, SOLID principles and multiple system design patterns
+
+#### 🌍 Only interested in remote work.
+
+🤝 Feel free to drop me a message if you want to see how my expertise can help your business! 
+
+📞 Phone: +40 764 731 357
+📧 Email: roberttcode@gmail.com
