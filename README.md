@@ -7,14 +7,14 @@ Always eager for new challenges where I can contribute with my skills and knowle
 
 #### About my skills
 
-📱** iOS**
+📱 **_iOS_**
 - Swift, Combine, Objective-C
 - SwiftUI, UIKit, AutoLayout, HIG
 - CoreData, SQLite, Realm
 - SPM, Cocoapods, Carthage, modular architecture using frameworks
 - REST, GraphQL, WebSocket
 
-🏗 **Software Architecture**
+🏗 **_Software Architecture_**
 - MVVM-C, MVC, MVP
 - TDD, BDD, CI + CD, Git
 - Backend-driven & frontend-driven mobile applications
@@ -23,7 +23,8 @@ Always eager for new challenges where I can contribute with my skills and knowle
 
 #### 🌍 Only interested in remote work.
 
-🤝 Feel free to drop me a message if you want to see how my expertise can help your business! 
+
+#### 🤝 Feel free to drop me a message if you want to see how my expertise can help your business! 
 
 📞 Phone: +40 764 731 357
 
