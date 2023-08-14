@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Robert, a **_Senior iOS Engineer_** / Freelancer with **_more than 5 years of experience_** in the industry. 
-Always eager for new challenges where I can contribute with my skills and knowledge while improving my professional abilities.
+I am Robert, a **_Senior iOS Engineer_** / Freelancer with **_more than 6 years of experience_** in the industry. 
+The areas where I can bring the most value are system architecture, user-focused development, and testability for high-quality native apps.
 
 🚀 Agile environments are natural to me and I love having effective systems set up in place and a **good architecture** to build safe and fast on top of it.
 
@@ -15,10 +15,10 @@ Always eager for new challenges where I can contribute with my skills and knowle
 - REST, GraphQL, WebSocket
 
 🏗 **_Software Architecture_**
-- MVVM-C, MVC, MVP
+- MVVM-C, MVC, MVP, Tuist
 - TDD, BDD, CI/CD, Git
 - Backend-driven & frontend-driven mobile applications
-- Clean Code, SOLID principles and multiple system design patterns
+- Clean Code, SOLID principles, and multiple system design patterns
 
 
 #### 🌍 Only interested in remote work.
