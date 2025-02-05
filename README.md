@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Robert, a **_Senior iOS Engineer_** / Freelancer with **_more than 7 years of experience_** in the industry. 
+I am Robert, a **_Senior iOS Engineer_** / Freelancer with **_8 years of experience_** in the industry. 
 The areas where I can bring the most value are system architecture, user-focused development, and testability for high-quality native apps.
 
 🚀 Agile environments are natural to me and I love having effective systems set up in place and a **good architecture** to build safe and fast on top of it.
