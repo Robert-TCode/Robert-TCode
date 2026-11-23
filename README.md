@@ -1,34 +1,32 @@
-### Hi there 👋
+# Hi there 👋
 
-I am Robert, a **_Senior iOS Engineer_** / Freelancer with **_8 years of experience_** in the industry. 
-The areas where I can bring the most value are system architecture, user-focused development, and testability for high-quality native apps.
+I'm **Robert**, a Senior iOS Engineer with **9+ years** of experience building apps in enterprise, fintech and health (Hilti, Qonto, Clue).
 
-🚀 Agile environments are natural to me and I love having effective systems set up in place and a **good architecture** to build safe and fast on top of it.
-
-#### About my skills
-
-📱 **_iOS_**
-- Swift, Combine
-- SwiftUI, UIKit, AutoLayout, HIG
-- CoreData, SQLite, Realm
-- SPM, Cocoapods, Carthage, modular architecture using frameworks
-- REST, GraphQL, WebSocket
-
-🏗 **_Software Architecture_**
-- MVVM-C, MVC, MVP, Tuist
-- TDD, CI/CD, Git
-- Clean Code, SOLID principles, and multiple system design patterns
+I build the foundations that make whole teams faster: **SwiftUI architecture, design systems, engineering standards, CI and AI agent workflows**, while still shipping product features end to end.
 
 
-#### 🌍 Only interested in remote work.
+### 🚀 What I'm focused on
+- 🤖 **AI-augmented development:** I built my team's shared AI harness for Claude Code and GitHub Copilot: rules, skills, subagents, MCP integrations and guardrails, used daily by the whole iOS team.
+- 🧱 **Architecture & design systems:** SwiftUI design systems, action-driven navigation tested with unit tests, modular apps that scale with the team.
+- ⚡️ **Developer experience:** faster, more reliable CI, release automation and App Store delivery.
+- 🔭 **Currently learning:** Apple's Foundation Models: on-device and hybrid AI in iOS apps.
 
 
-#### 🤝 Feel free to drop me a message if you want to see how my expertise can help your business! 
+### 🛠 Tech
+**iOS:** Swift 6, SwiftUI, UIKit, Swift Concurrency, Combine, SPM, Tuist
+
+**Architecture:** Clean Architecture, MVVM-C, modularization, design systems, SOLID
+
+**Quality:** Swift Testing, XCTest, snapshot tests, TDD
+
+**AI tooling:** Claude Code, GitHub Copilot, MCP, agent harness design
+
+**APIs & CI:** GraphQL (Apollo), REST, GitLab CI, Xcode Cloud, App Store Connect
 
 
+### 🤝 Let's work together
+🌍 Available for **B2B contracts**, remote across Europe.
 
-👀 LinkedIn: https://www.linkedin.com/in/robert-tcode
-
-📞 Phone: +40 764 731 357
-
-📧 Email: roberttcode@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/robert-tcode](https://www.linkedin.com/in/robert-tcode)
+- 📧 Email: [roberttcode@gmail.com](mailto:roberttcode@gmail.com)
+- 📞 Phone: +40 764 731 357
